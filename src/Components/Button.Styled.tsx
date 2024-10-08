@@ -4,6 +4,7 @@ type StaledBtnPropsType = {
     primary?: boolean,
     outlined?: boolean
 }
+kgrkggkjjk
 
 const Button = styled.button<StaledBtnPropsType> `
     width: 86px;
