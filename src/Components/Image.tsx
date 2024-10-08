@@ -5,5 +5,4 @@ const Image = () => {
         <img src={image} alt="Image" />
     )
 }
-
 export default Image
